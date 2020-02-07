@@ -1,1 +1,2 @@
 addfunc1
+addfunc2
