@@ -26,7 +26,7 @@ let lastFrameTime = 0;
 //用于反复验证是否符合预渲染结束条件
 let renderCount = 0;
 
-
+add func1
 
 export class Viewer {
  
@@ -156,7 +156,7 @@ export class Viewer {
             }
         }
     }
-
+add func2
     init() {
         let _this=this;
         let promise = new Promise((resolve, reject) => {
