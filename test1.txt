@@ -1,8 +1,4 @@
 abc
 123
 func 1
-<<<<<<< HEAD
 code conclick2
-=======
-code conclick1
->>>>>>> cb50e72184be7e1504810a6ef91ccd5da61b207b
