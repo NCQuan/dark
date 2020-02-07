@@ -261,7 +261,7 @@ add func2
         });
         return promise;
     }
-add func3
+
     createMesh(data) {
         let mesh = new BABYLON.Mesh("mesh",this.scene);
         let vertexData = new BABYLON.VertexData();          //设置顶点信息
