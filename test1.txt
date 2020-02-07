@@ -4,3 +4,4 @@ func 1
 111
 2
 add test1
+add test2
